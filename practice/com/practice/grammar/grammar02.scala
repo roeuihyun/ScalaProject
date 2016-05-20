@@ -1,4 +1,4 @@
-package com.practice.grammer
+package com.practice.grammar
 import scala._
 /**
   * Scala의 기본 변수를 사용한 연산을 확인해 본다.
@@ -6,7 +6,7 @@ import scala._
   * Unit은 인자를 받지 않고 아무 것도 돌려주지 않는 모든 함수를 뜻한다.
   * 아래의 예제에서는 콜백함수가 아무것도 돌려주지 않는 모든 함수란 뜻 이다.
  */
-object grammer02 {
+object grammar02 {
   
 	val number01 = 1;
 	val number02 = 2;
