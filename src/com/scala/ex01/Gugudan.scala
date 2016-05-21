@@ -1,6 +1,6 @@
 package com.scala.ex01
 
-object ex02 {
+object Gugudan {
     def main(args: Array[String]) {
       var gugu = 1;
       var dan = 1;
