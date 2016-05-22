@@ -7,11 +7,11 @@ package com.practice.grammar
 import java.text.SimpleDateFormat
 import java.util.Calendar
 
-object grammar05 {
+object ApplyGrammar {
 
-	def apply() = new grammar04();
+	def apply() = new UnderScoreGrammarMain();
 
-	val applyTest = grammar05();
+	val applyTest = ApplyGrammar();
 
 	val now = Calendar.getInstance().getTime();
 

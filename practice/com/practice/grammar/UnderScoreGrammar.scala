@@ -7,7 +7,7 @@ package com.practice.grammar
   * 4)함수를 통해 한번에 여러 변수의 값을 할당할 수도 있다 (일반 객체 지향 언어에 비해 약간 자유롭다.)
 	* 5)커리 함수(Curried functions) 함수의 일부만 적용하고 나머지는 나중에 적용하도록 남겨둔다.
 	*/
-object grammar03 {
+object UnderScoreGrammar {
 
 	val add2 = {adder(2, _: Int)}
 

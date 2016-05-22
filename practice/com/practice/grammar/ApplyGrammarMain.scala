@@ -3,10 +3,10 @@ package com.practice.grammar
 /**
 	*
 	*/
-object grammar06 {
+object ApplyGrammarMain {
 
 	def main(args: Array[String]) {
-		grammar05.currentTime();
+		ApplyGrammar.currentTime();
 //		print(grammer05.currentTime());
 	}
 

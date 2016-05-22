@@ -6,7 +6,7 @@ import scala._
   * Unit은 인자를 받지 않고 아무 것도 돌려주지 않는 모든 함수를 뜻한다.
   * 아래의 예제에서는 콜백함수가 아무것도 돌려주지 않는 모든 함수란 뜻 이다.
  */
-object grammar02 {
+object MethodObject {
   
 	val number01 = 1;
 	val number02 = 2;

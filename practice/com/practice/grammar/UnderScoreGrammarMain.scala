@@ -3,6 +3,6 @@ package com.practice.grammar
 /**
   *
   */
-class grammar04 {
+class UnderScoreGrammarMain {
   println("grammer04 create");
 }
