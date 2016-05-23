@@ -3,12 +3,10 @@ package com.practice.grammar
 /**
 	*
 	*/
-object MultipleParameter {
+class MultipleParameter {
 
-	def capitalizeAll(args: String*) = {
-		args.map { arg =>
-			arg.capitalize
-		}
+	def capitalizeAll(args: String*)={
+		args.map { arg =>arg.capitalize	}
 	}
 
 }
