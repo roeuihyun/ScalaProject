@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f34cac0-3afe-4fdf-9007-98fe732737d9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/com/practice/grammar/CalculatorMain.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameter.scala" afterPath="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameter.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.scala" afterPath="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.scala" />
     </list>
     <ignored path="ScalaProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,51 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MultipleParameter.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameter.scala">
+      <file leaf-file-name="BasicDataStructure.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/BasicDataStructure.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultipleParameterMain.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnderScoreGrammarMain.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/UnderScoreGrammarMain.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplyGrammar.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/ApplyGrammar.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodObject.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MethodObject.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="465">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,7 +64,6 @@
         <option value="$PROJECT_DIR$/practice/com/practice/grammer/grammer06.scala" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammer/grammar06.scala" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammer/package.scala" />
-        <option value="$PROJECT_DIR$/practice/com/practice/grammar/package.scala" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammar/grammar01.scala" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammer/grammar01.scala" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammer/grammar05.scala" />
@@ -118,6 +76,16 @@
         <option value="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.java" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameter.scala" />
         <option value="$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/Calculator.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/CalculatorMain.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/CircleMain.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/Circle.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/Shape.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/Shiny.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/Car.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/CarMain.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/package.scala" />
+        <option value="$PROJECT_DIR$/practice/com/practice/grammar/BasicDataStructure.scala" />
       </list>
     </option>
   </component>
@@ -240,6 +208,8 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="currentTime&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -247,27 +217,7 @@
       <recent name="com.practice.grammer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VariableParameterMain">
-    <configuration default="false" name="grammar06" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.practice.grammar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.grammar06" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaProject" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BasicDataStructure">
     <configuration default="false" name="VariableParameterMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -288,14 +238,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MultipleParameterMain$" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CalculatorMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.practice.grammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.MultipleParameterMain$" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.CalculatorMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -308,14 +258,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MultipleParameterMain$" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CircleMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.practice.grammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.MultipleParameterMain$" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.CircleMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -328,14 +278,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ApplyGrammar" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="CarMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.practice.grammar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.ApplyGrammar" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.CarMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaProject" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BasicDataStructure" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.practice.grammar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.practice.grammar.BasicDataStructure" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -628,19 +598,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.grammar06" />
-      <item index="1" class="java.lang.String" itemvalue="Application.VariableParameterMain" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MultipleParameterMain$" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MultipleParameterMain$" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ApplyGrammar" />
+      <item index="0" class="java.lang.String" itemvalue="Application.VariableParameterMain" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CalculatorMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CircleMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CarMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BasicDataStructure" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.VariableParameterMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ApplyGrammar" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MultipleParameterMain$" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MultipleParameterMain$" />
-        <item index="4" class="java.lang.String" itemvalue="Application.grammar06" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BasicDataStructure" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CarMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CircleMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CalculatorMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.VariableParameterMain" />
       </list>
     </recent_temporary>
   </component>
@@ -677,11 +647,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -692,7 +663,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -819,7 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/package.scala" />
     <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/grammar06.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -870,14 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MethodObject.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/ApplyGrammarMain.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -886,10 +847,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/UnderScoreGrammarMain.scala">
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="165">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -902,6 +863,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/UnderScoreGrammarMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/ApplyGrammar.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -910,10 +879,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MultipleParameterMain.scala">
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/MethodObject.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/Calculator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/UnderScoreGrammar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/Shiny">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/CircleMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/Circle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/Shape.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/Car.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/CalculatorMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/Shiny.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/CarMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/com/practice/grammar/BasicDataStructure.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
