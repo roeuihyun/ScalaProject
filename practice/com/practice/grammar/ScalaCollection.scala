@@ -11,12 +11,12 @@ package com.practice.grammar
   */
 object ScalaCollection {
 
-  var mapStructure = Map(("one","1"),("two","2"),("three","3"))
+  val mapStructure = Map(("one","1"),("two","2"),("three","3"))
   val numbers = List(1, 2, 3, 4)
   val doubled = numbers.foreach((i: Int) => i * 2)
   val listNumbers = List(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 
-  def main(args: Array[String]): Unit = {
+  def main(args: Array[String]) {
 
     println("---------------------------------------------------------------------------------------------------------")
     println("mapStructure : " + mapStructure)
@@ -48,6 +48,37 @@ object ScalaCollection {
     println("listNumbers.partition(_ % 2 == 0)._1 : " + listNumbers.partition(_ % 2 == 0)._1 )
 
     println("---------------------------------------------------------------------------------------------------------")
+    println("listNumbers.find((i: Int) => i > 5) : " + listNumbers.find((i: Int) => i > 5) )
+    println("listNumbers.find(i => i > 5) : " + listNumbers.find(i => i > 5) )
+    println("listNumbers.find(_ > 5) : " + listNumbers.find(_ > 5) )
+
+    println("---------------------------------------------------------------------------------------------------------")
+    println("listNumbers.drop(5) : " + listNumbers.drop(5) )
+    println("listNumbers.dropWhile(_ % 2 != 0)  : " + listNumbers.dropWhile(_ % 2 != 0) )
+
+    println("---------------------------------------------------------------------------------------------------------")
+    println("listNumbers.foldLeft(0)((m: Int, n: Int) => m + n) : " + listNumbers.foldLeft(0)((m: Int, n: Int) => m + n) )
+    println("listNumbers.foldLeft(0)((m , n) => m + n)  : " + listNumbers.foldLeft(0)((m , n) => m + n) )
+    println("listNumbers.foldLeft(0)(_ + _)  : " + listNumbers.foldLeft(0)(_ + _) )
+
+    println("listNumbers.foldRight(0)((m: Int, n: Int) => m + n) : " + listNumbers.foldRight(0)((m: Int, n: Int) => m + n) )
+    println("listNumbers.foldRight(0)((m , n) => m + n)  : " + listNumbers.foldRight(0)((m , n) => m + n) )
+    println("listNumbers.foldRight(0)(_ + _)  : " + listNumbers.foldRight(0)(_ + _) )
+
+    println("---------------------------------------------------------------------------------------------------------")
+    val nestedNumbers = List(List(1, 2), List(3, 4))
+    println("val nestedNumbers = List(List(1, 2), List(3, 4)) : " + nestedNumbers )
+    println("nestedNumbers.flatMap(x => x.map(_ * 2)) : " + nestedNumbers.flatMap(x => x.map(_ * 2)) )
+
+    println("---------------------------------------------------------------------------------------------------------")
+    //일반적인 함수 콤비네이터 (아직 잘 모르겠음)
+    println("ourMap(numbers, timesTwo(_)) : " + ourMap(numbers, timesTwo(_)) )
+
+    println("---------------------------------------------------------------------------------------------------------")
+    val extensions = Map("steve" -> 100, "bob" -> 101, "joe" -> 201)
+    println("extensions : " + extensions )
+    println("extensions.filter((namePhone: (String, Int)) => namePhone._2 < 200) : " + extensions.filter((namePhone: (String, Int)) => namePhone._2 < 200) )
+    println("extensions.filter({case (name, extension) => extension < 200}) : " + extensions.filter({case (name, extension) => extension < 200}) )
 
 
   }
@@ -63,4 +94,10 @@ object ScalaCollection {
   def timesTwo(i: Int): Int = i * 2
 
   def isEven(i: Int): Boolean = i % 2 == 0
+
+  def ourMap(numbers: List[Int], fn: Int => Int): List[Int] = {
+    numbers.foldRight(List[Int]()) { (x: Int, xs: List[Int]) =>
+      fn(x) :: xs
+    }
+  }
 }
