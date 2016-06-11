@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
 	* abstract을 구현한 클래스의 메인이다

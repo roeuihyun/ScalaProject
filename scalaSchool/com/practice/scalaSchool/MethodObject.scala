@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 import scala._
 /**
   * Scala의 기본 변수를 사용한 연산을 확인해 본다.

@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
   * Created by roeuihyun on 2016. 5. 24..

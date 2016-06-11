@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
   * 1)Scala에서 함수는 다음과 같이 정의가 가능하며 변수 역시 함수가 될 수 있다.

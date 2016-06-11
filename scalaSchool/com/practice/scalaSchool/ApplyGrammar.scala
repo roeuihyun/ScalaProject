@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
 	* 1)grammer04라는 클래스를 만들고 정의한다

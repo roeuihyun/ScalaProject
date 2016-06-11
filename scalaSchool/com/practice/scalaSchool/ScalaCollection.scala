@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
   * Map에서 값을 빼올 경우 Option이 return 되는 것을 확인한다.

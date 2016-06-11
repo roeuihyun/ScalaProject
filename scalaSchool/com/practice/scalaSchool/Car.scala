@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
 	* trait 은 특성을 의미하며 Java와 비교하면 interface와 비슷한 개념이다.

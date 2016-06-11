@@ -1,4 +1,4 @@
-package com.practice.grammar
+package com.practice.scalaSchool
 
 /**
 	* Car trait과 Shiny trait을 구현한 클래스
