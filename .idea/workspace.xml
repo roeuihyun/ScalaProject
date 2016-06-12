@@ -2,49 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8423fd2b-01c5-47dc-960d-eae2f80e2fe6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ColorExpressionMain.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/ColorExpressionMain.scala" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Animal.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Animal.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/ApplyGrammar.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ApplyGrammar.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/ApplyGrammarMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ApplyGrammarMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/BasicDataStructure.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/BasicDataStructure.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Bird.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Bird.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Bound.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Bound.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/BoundTest.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/BoundTest.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Calculator.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Calculator.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/CalculatorMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/CalculatorMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Car.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Car.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/CarMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/CarMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Chicken.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Chicken.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Circle.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Circle.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/CircleMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/CircleMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Contravariant.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Contravariant.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Covariant.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Covariant.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/ListTest.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ListTest.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/MethodObject.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/MethodObject.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/MultipleParameter.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/MultipleParameter.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/MultipleParameterMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/MultipleParameterMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/PatternMatchFunctionCombination.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/PatternMatchFunctionCombination.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/QuantificationClass.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/QuantificationClass.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/ScalaCollection.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ScalaCollection.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Shape.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Shape.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Shiny.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Shiny.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/TypePolymorphism.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/TypePolymorphism.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/UnderScoreGrammar.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/UnderScoreGrammar.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/UnderScoreGrammarMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/UnderScoreGrammarMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Variable.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Variable.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/VarianceClass.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/VarianceClass.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex01/Gugudan.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/Gugudan.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex01/HelloWorld.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/HelloWorld.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex01/ListPractice.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ListPractice.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/AddTwoThousand01.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/AddTwoThousand01.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/AddTwoThousand02.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/AddTwoThousand02.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/ApplyMethod.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ApplyMethod.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/ApplyMethodMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ApplyMethodMain.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/ColorExpression.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/ColorExpression.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/PatternMatching.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/PatternMatching.scala" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/scala/ex02/PatternMatchingMain.scala" afterPath="$PROJECT_DIR$/src/com/practice/scalaSchool/PatternMatchingMain.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/NumberControl.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/RangeList.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/HelloWorld.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/PrimitiveType.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/PrintVariable.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/VariableConstant.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ScalaProject.iws" />
@@ -67,7 +30,7 @@
     <favorites_list name="ScalaProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,6 +62,21 @@
         <option value="$PROJECT_DIR$/src/com/practice/scalaSchool/QuantificationClass.scala" />
         <option value="$PROJECT_DIR$/src/com/practice/scalaSchool/Container.scala" />
         <option value="$PROJECT_DIR$/src/com/practice/scalaSchool/ImplicitClass.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/HelloWorld.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/PrimitiveType.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/VariableConstant.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/PrintMethod.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/PrintVariable.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/RangeList.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/NumberControl.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/VariableConstant.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/NumberControl.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/StringsControl.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/methodAndFunction/DefineMethod.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/methodAndFunction/AnonymousFunction.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/tuple/Tuple.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/tuple/MultipleReturn.scala" />
+        <option value="$PROJECT_DIR$/src/com/practice/halfHour/controlStatements/LoopStatements.scala" />
       </list>
     </option>
   </component>
@@ -126,7 +104,7 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
@@ -139,7 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -172,14 +151,147 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="scalaSchool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halfHour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="variableCalculation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halfHour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tuple" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halfHour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="methodAndFunction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halfHour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="convenientScala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="halfHour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlStatements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,15 +307,15 @@
       <recent name="C:\Dev\workspaceScala\ScalaProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImplicitClass">
-    <configuration default="false" name="ListTest" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.LoopStatements">
+    <configuration default="false" name="DefineMethod" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.practice.scalaSchool.*" />
+          <option name="PATTERN" value="com.practice.halfHour.methodAndFunction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.scalaSchool.ListTest" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.halfHour.methodAndFunction.DefineMethod" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -216,14 +328,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Bound (1)" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="AnonymousFunction" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.practice.scalaSchool.*" />
+          <option name="PATTERN" value="com.practice.halfHour.methodAndFunction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.scalaSchool.Bound" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.halfHour.methodAndFunction.AnonymousFunction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -236,14 +348,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="QuantificationClass" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Tuple" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.practice.scalaSchool.*" />
+          <option name="PATTERN" value="com.practice.halfHour.tuple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.scalaSchool.QuantificationClass" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.halfHour.tuple.Tuple" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -256,14 +368,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="AddTwoThousand01" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MultipleReturn" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.practice.scalaSchool.*" />
+          <option name="PATTERN" value="com.practice.halfHour.tuple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.scalaSchool.AddTwoThousand01" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.halfHour.tuple.MultipleReturn" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -276,14 +388,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ImplicitClass" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="LoopStatements" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.practice.scalaSchool.*" />
+          <option name="PATTERN" value="com.practice.halfHour.controlStatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.practice.scalaSchool.ImplicitClass" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.halfHour.controlStatements.LoopStatements" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -743,19 +855,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ListTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Bound (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.QuantificationClass" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AddTwoThousand01" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ImplicitClass" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DefineMethod" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AnonymousFunction" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Tuple" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MultipleReturn" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LoopStatements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ImplicitClass" />
-        <item index="1" class="java.lang.String" itemvalue="Application.QuantificationClass" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AddTwoThousand01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Bound (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ListTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LoopStatements" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MultipleReturn" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Tuple" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AnonymousFunction" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DefineMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -779,12 +891,13 @@
       <updated>1465614654856</updated>
       <workItem from="1465614660337" duration="5795000" />
       <workItem from="1465660252806" duration="4761000" />
-      <workItem from="1465693898037" duration="64000" />
+      <workItem from="1465693898037" duration="202000" />
+      <workItem from="1465704851155" duration="8529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10620000" />
+    <option name="totallyTimeSpent" value="19287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -792,28 +905,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18481596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18481596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -864,34 +977,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/QuantificationClass.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/ImplicitClass.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Container.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Bound.scala" />
-    <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/QuantificationClass.scala" />
-    <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/ListTest.scala" />
-    <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Contravariant.scala" />
     <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Covariant.scala" />
     <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Chicken.scala" />
     <entry file="file://$PROJECT_DIR$/scalaSchool/com/practice/scalaSchool/Animal.scala" />
@@ -912,20 +997,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/BoundTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Covariant.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Contravariant.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1065,14 +1136,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Container.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/ImplicitClass.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1085,6 +1148,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Covariant.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Contravariant.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Container.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/PrintVariable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/PrimitiveType.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/VariableConstant.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/methodAndFunction/DefineMethod.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/StringsControl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/NumberControl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/RangeList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/tuple/Tuple.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/tuple/MultipleReturn.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/methodAndFunction/AnonymousFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/scalaSchool/Bound.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/practice/halfHour/controlStatements/LoopStatements.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
