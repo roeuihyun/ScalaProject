@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8423fd2b-01c5-47dc-960d-eae2f80e2fe6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/NumberControl.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/convenientScala/RangeList.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/HelloWorld.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/PrimitiveType.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/PrintVariable.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/practice/halfHour/variableCalculation/VariableConstant.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8423fd2b-01c5-47dc-960d-eae2f80e2fe6" name="Default" comment="" />
     <ignored path="ScalaProject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -892,12 +884,12 @@
       <workItem from="1465614660337" duration="5795000" />
       <workItem from="1465660252806" duration="4761000" />
       <workItem from="1465693898037" duration="202000" />
-      <workItem from="1465704851155" duration="8529000" />
+      <workItem from="1465704851155" duration="8611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19287000" />
+    <option name="totallyTimeSpent" value="19369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -911,7 +903,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
