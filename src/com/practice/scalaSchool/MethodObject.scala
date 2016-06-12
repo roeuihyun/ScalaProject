@@ -1,5 +1,5 @@
 package com.practice.scalaSchool
-import scala._
+
 /**
   * Scala의 기본 변수를 사용한 연산을 확인해 본다.
   * 기본적으로 형을 지키지 않는듯 하나 형을 지키는 것을 확인할 수 있었으며 형변환은 자바의 Integer Class를 사용한 명시적 형변환도 가능하다.

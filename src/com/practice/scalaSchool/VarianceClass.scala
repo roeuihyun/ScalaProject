@@ -1,4 +1,5 @@
 package com.practice.scalaSchool
+
 /**
   * Created by roeuihyun on 2016. 6. 10..
   */

@@ -1,4 +1,4 @@
-package com.scala.ex01
+package com.practice.scalaSchool
 
 object Gugudan {
     def main(args: Array[String]) {

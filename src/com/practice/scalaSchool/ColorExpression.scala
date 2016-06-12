@@ -1,4 +1,4 @@
-package com.scala.ex02
+package com.practice.scalaSchool
 
 object ColorExpression {
   val BLUE = "Blue"

@@ -1,4 +1,4 @@
-package com.scala.ex02
+package com.practice.scalaSchool
 
 class ApplyMethod {
   println("Hi ApplyMethod called!")
