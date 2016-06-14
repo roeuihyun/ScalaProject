@@ -9,6 +9,7 @@ object ImplicitClass {
   val y: Int = "123"
 
   def main(args: Array[String]) {
+
     println("---------------------------------------------------------------------------------------------------------")
     println("111 : " + 111)
 
@@ -30,7 +31,6 @@ object ImplicitClass {
     println("(new Container[Int]).addIt(\"123\") : " + (new Container[Int]).addIt("123"))
     //could not find implicit value for evidence parameter of type (Float) => Int
     //println("(new Container[Float]).addIt(123.2F) : " + (new Container[Float]).addIt(123.2F))
-
 
   }
 }

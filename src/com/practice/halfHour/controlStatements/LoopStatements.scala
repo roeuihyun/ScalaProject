@@ -2,6 +2,7 @@ package com.practice.halfHour.controlStatements
 
 /**
   * Created by Administrator on 2016-06-12.
+  * while, for ++나 --는 제공하지 않으므로 += 1을 사용해야 한다.
   */
 object LoopStatements {
 
