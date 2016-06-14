@@ -42,13 +42,6 @@ object SetCollection {
 
     println(s"⑤ ${findSolar._2}, ${findSun._2}")
 
-    /*
-     *
-     *
-     *
-     *
-     */
-
   }
 
 }
